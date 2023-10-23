@@ -31,3 +31,13 @@ img.road_img {
   /* font-family: "Fishes Friends", sans-serif; */
   margin-left: 12px;
 }
+
+.up_img {
+  width: 60%;
+}
+
+@media screen and (max-width: 768px) {
+  .up_img {
+    width: 97%;
+  }
+}
